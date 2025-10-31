@@ -1,6 +1,6 @@
 # U2-Examen-Monitoreo del Estado de Ánimo
 
-## Universidad Autónoma de Tamaulipas
+## Universidad Politécnica De Victoria
 ⮕ **Ingeniería en Tecnologías de la Información**  
 ⮕ **Materia¨**: Desarrollo de Aplicaciones Móviles  
 ⮕ **Asesor**: Ing. Luis Antonio González Castro
@@ -9,9 +9,9 @@
 
 ## Integrantes:
 ```plaintext
-- Marcos García Vázquez  
-- Jorge Luis Gerónimo Osorio  
-- Ingrid Yamilee Ortega Castillo  
+- **Marcos García Vázquez**  
+- **Jorge Luis Gerónimo Osorio**  
+- **Ingrid Yamilee Ortega Castillo**  
 ```
 ---
 
