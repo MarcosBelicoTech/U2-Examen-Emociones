@@ -6,7 +6,7 @@
 ⮕ Periodo: Octubre – Diciembre 2025  
 ⮕ Ciudad Victoria, Tamaulipas
 
-## 🧑‍💻 Integrantes
+## Integrantes:
 
 - Marcos García Vázquez  
 - Jorge Luis Gerónimo Osorio  
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este examen tiene como objetivo desarrollar una aplicación móvil para el monitoreo del estado de ánimo. La aplicación permite a los usuarios calificar su estado de ánimo, registrar actividades y eventos, y generar análisis gráficos sobre los patrones de su estado emocional.
 
@@ -34,31 +34,31 @@ Este proyecto es útil para:
 - Análisis de patrones de ánimo a largo plazo.
 - Gestión de actividades que afectan el estado emocional.
 
-## 📂 Explicación del Código
+## Explicación del Código
 
-### 🔸 `MainActivity.java` (Con ViewPager)
+### `MainActivity.java` (Con ViewPager)
 
 La actividad principal de la aplicación usa un **ViewPager2** para gestionar la navegación entre las dos pestañas: **Registrar** y **Análisis**. Esto permite a los usuarios navegar entre estas secciones de la aplicación sin necesidad de recargar la actividad. Cada pestaña está asociada a una clase y a una interfaz de usuario (UI) específica.
 
 - **`ViewPager2`**: Un contenedor que permite la navegación entre fragmentos o actividades. En este caso, se utiliza para mostrar las secciones de "Registrar" y "Análisis".
 - **`FragmentStateAdapter`**: Un adaptador que maneja los fragmentos dentro del `ViewPager2`. En este caso, gestiona los fragmentos correspondientes a las pestañas "Registrar" y "Análisis".
 
-### 🔸 `RegistrarActivity.java`
+### `RegistrarActivity.java`
 Permite al usuario calificar su estado de ánimo y registrar eventos o actividades que puedan influir en él.  
 - Utiliza campos de entrada para los datos del usuario y los guarda en la base de datos.
 
-### 🔸 `AnalisisActivity.java`
+### `AnalisisActivity.java`
 Muestra gráficas interactivas basadas en los registros de estado de ánimo del usuario.  
 - Utiliza **MPAndroidChart** para visualizar los datos en forma de gráficas de barras y de pastel.
 
-### 🔸 `Mood.java`
+### `Mood.java`
 Clase modelo para representar un registro de estado de ánimo.  
 - Contiene campos como fecha, estado de ánimo, actividad, y eventos.
 
-### 🔸 `MoodDbHelper.java`
+### `MoodDbHelper.java`
 Clase que maneja las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en la base de datos SQLite.
 
-### 🔸 `MoodNotification.java`
+### `MoodNotification.java`
 Clase encargada de gestionar las notificaciones que se envían al usuario si no ha registrado su estado de ánimo en más de 18 horas. La notificación recuerda al usuario que debe ingresar su estado para el día.
 
 - **Método `showNotification()`**: Crea y muestra una notificación utilizando el sistema de notificaciones de Android.
@@ -68,7 +68,7 @@ Clase encargada de gestionar las notificaciones que se envían al usuario si no 
 
 ---
 
-## 🧰 Estructuras de Datos Utilizadas
+## Estructuras de Datos Utilizadas
 
 - `ArrayList` para almacenar los registros de estado de ánimo.
 - `SQLiteDatabase` para la persistencia de los datos.
@@ -76,7 +76,7 @@ Clase encargada de gestionar las notificaciones que se envían al usuario si no 
 
 ---
 
-## 📚 Librerías Usadas
+## Librerías Usadas
 
 - **MPAndroidChart**: Para la visualización de gráficos de barras y pastel.
 - **SQLite**: Para la base de datos local donde se almacenan los registros de estado de ánimo.
@@ -84,9 +84,9 @@ Clase encargada de gestionar las notificaciones que se envían al usuario si no 
 
 ---
 
-## 💻 Ejecución del Programa
+##  Ejecución del Programa
 
-### ✔️ Requisitos
+### Requisitos
 
 - Android Studio 4.0 o superior
 - Dispositivo Android con Android 7.0 (API 24) o superior.
@@ -103,6 +103,7 @@ cd monitoreo-estado-animo
 # 3. Compilar y ejecutar el proyecto en un dispositivo o emulador Android
 
 ```
+## Estructura del Proyecto
 ```plaintext
 U2-Examen-Monitoreo-Estado-Animo/
 ├── README.md                  # Documentación del proyecto (este archivo)
