@@ -4,7 +4,7 @@
 ⮕ **Ingeniería en Tecnologías de la Información**  
 ⮕ **Materia¨**: Desarrollo de Aplicaciones Móviles  
 ⮕ **Asesor**: Ing. Luis Antonio González Castro
-⮕ **Periodo**: Agosto – Diciembre 2025  
+⮕ **Periodo**: Agosto – Diciembre 2025
 ⮕ Ciudad Victoria, Tamaulipas
 
 ## Integrantes:
