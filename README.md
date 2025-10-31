@@ -8,11 +8,11 @@
 ⮕ Ciudad Victoria, Tamaulipas
 
 ## Integrantes:
-
+```plaintext
 - Marcos García Vázquez  
 - Jorge Luis Gerónimo Osorio  
 - Ingrid Yamilee Ortega Castillo  
-
+```
 ---
 
 ## Descripción del Proyecto
