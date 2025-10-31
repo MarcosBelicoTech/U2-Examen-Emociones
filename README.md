@@ -9,9 +9,9 @@
 
 ## Integrantes:
 ```plaintext
-- **Marcos García Vázquez**  
-- **Jorge Luis Gerónimo Osorio**  
-- **Ingrid Yamilee Ortega Castillo**  
+- Marcos García Vázquez  
+- Jorge Luis Gerónimo Osorio  
+- Ingrid Yamilee Ortega Castillo  
 ```
 ---
 
